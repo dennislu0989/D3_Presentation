@@ -1,0 +1,20 @@
+id,value
+DC_Development,
+DC_Development.Differentiation,
+DC_Development.Differentiation.1st,
+DC_Development.Differentiation.1st.pDC Percentage,300
+DC_Development.Differentiation.1st.cDC Percentage,300
+DC_Development.Differentiation.1st.cDC2 Percentage,300
+DC_Development.Differentiation.1st.SiglecH MFI,300
+DC_Development.Differentiation.5th,
+DC_Development.Differentiation.5th.pDC Percentage,300
+DC_Development.Differentiation.5th.cDC Percentage,300
+DC_Development.Differentiation.5th.cDC2 Percentage,300
+DC_Development.Differentiation.5th.SiglecH MFI,300
+DC_Development.ATP Assay,
+DC_Development.ATP Assay.ATP Production,300
+DC_Development.Seahorse,
+DC_Development.Seahorse.Basal Respiration,300
+DC_Development.Seahorse.Maximal Respiration,300
+DC_Development.Seahorse.ATP Production,300
+DC_Development.Seahorse.Proton Leak,300
